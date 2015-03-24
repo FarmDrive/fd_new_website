@@ -461,10 +461,10 @@ var map;
 function contactusMap() {
 
     var myLatlng, mapOptions, marker;
-    var myLatlng = new google.maps.LatLng(-37.817590, 144.965188);
+    var myLatlng = new google.maps.LatLng(-1.272558,36.80716);
 
     mapOptions = {
-        zoom: 11,
+        zoom: 15,
         center: myLatlng,
         scrollwheel: false,
         mapTypeId: google.maps.MapTypeId.ROADMAP
